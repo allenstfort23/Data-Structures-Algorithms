@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="912070b8-9a7f-446f-bc24-d21e7b6578bb" name="Changes" comment="" />
+    <list default="true" id="912070b8-9a7f-446f-bc24-d21e7b6578bb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,7 +50,11 @@
       <updated>1675037297179</updated>
       <workItem from="1675037298473" duration="15593000" />
       <workItem from="1676601829189" duration="4214000" />
-      <workItem from="1676938267842" duration="11119000" />
+      <workItem from="1676938267842" duration="14542000" />
+      <workItem from="1677359935155" duration="5000" />
+      <workItem from="1677360161633" duration="11000" />
+      <workItem from="1677360912975" duration="648000" />
+      <workItem from="1677550650684" duration="2989000" />
     </task>
     <servers />
   </component>
